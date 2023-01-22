@@ -1,0 +1,24 @@
+.button{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    border-radius:10px
+}
+.rating{
+    background-color: white;
+}
+.empty{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    opacity: 0.1;
+}
+.super-clients{
+    background: linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    border-radius: 10px;
+}
+.show-all{
+    font-weight: 700;
+    background: -webkit-linear-gradient(270deg, #FF0000 0%, #FF8938 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+footer{
+    background: linear-gradient(270deg, rgba(255, 0, 0, 0.1) 0%, rgba(255, 137, 56, 0.1) 100%);
+}
